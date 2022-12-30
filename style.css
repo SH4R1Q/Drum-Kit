@@ -88,4 +88,8 @@ body{
     #footer {
         visibility: hidden;
     }
+    .drum{
+        color: transparent;
+        text-shadow: none;
+    }
 }
